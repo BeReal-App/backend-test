@@ -37,7 +37,7 @@ using this cursor, the fourth call must yield no posts and no cursor
 
 ### Your goal
 
-The feature deliberately unfinished, it contains bugs and it's quite slow
+The feature is deliberately unfinished, it contains bugs and it's quite slow
 
 Your goal is to finish the `DiscoveryService`, as of now the `fetchPage` function does not handle the pagination
 
